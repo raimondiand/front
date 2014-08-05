@@ -69,18 +69,6 @@
        r="76.971001"
        gradientTransform="matrix(1,0,0,0.16239882,0,870.98979)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter3802"
-       x="-0.11392435"
-       width="1.2278487"
-       y="-0.70150968"
-       height="2.4030194">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.3073925"
-         id="feGaussianBlur3804" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -119,7 +107,7 @@
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:url(#radialGradient3792);filter:url(#filter3802)"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:url(#radialGradient3792);"
        id="rect3016"
        width="153.942"
        height="25"
