@@ -20,6 +20,17 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient3788">
+      <stop
+         style="stop-color:#ea5480;stop-opacity:1;"
+         offset="0"
+         id="stop3791" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:0;"
+         offset="1"
+         id="stop3793" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient3786">
       <stop
@@ -67,19 +78,31 @@
        fx="76.971001"
        fy="1039.8622"
        r="83.031746"
-       gradientTransform="matrix(1,0,0,0.22353796,0,807.41351)"
+       gradientTransform="matrix(0.95391114,0,0,0.20620875,0.46903139,825.93463)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788"
+       id="radialGradient3795"
+       cx="73.892502"
+       cy="1040.3621"
+       fx="73.892502"
+       fy="1040.3621"
+       r="73.892502"
+       gradientTransform="matrix(1,0,0,0.16239808,0,871.40933)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
     <filter
        inkscape:collect="always"
-       id="filter3834"
-       x="-0.06390878"
-       width="1.1278176"
-       y="-0.39352982"
-       height="1.7870596">
+       id="filter3841"
+       x="-0.019360953"
+       width="1.0387219"
+       y="-0.12328092"
+       height="1.2465618">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="4.099269"
-         id="feGaussianBlur3836" />
+         stdDeviation="1.1846236"
+         id="feGaussianBlur3843" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -89,9 +112,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.56"
-     inkscape:cx="25.81844"
-     inkscape:cy="-8.2136466"
+     inkscape:zoom="5.12"
+     inkscape:cx="83.534033"
+     inkscape:cy="-21.511647"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -119,22 +142,23 @@
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:url(#radialGradient3824);filter:url(#filter3834)"
+       style="fill:url(#radialGradient3795);fill-opacity:1.0;stroke:url(#radialGradient3824);stroke-width:0.93806272999999996;filter:url(#filter3841)"
        id="rect3016"
-       width="153.942"
-       height="25"
-       x="0"
-       y="1027.3622" />
+       width="146.84694"
+       height="23.061937"
+       x="0.46903136"
+       y="1028.8312" />
   </g>
   <g
      inkscape:label="scritta"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-1028.3622)">
+     transform="translate(0,-1028.3622)"
+     sodipodi:insensitive="true">
     <g
        id="g3015"
-       transform="matrix(1.041645,0,0,1.041645,0,-43.825044)">
+       transform="matrix(0.99997917,0,0,0.99997917,0,0.02239973)">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
