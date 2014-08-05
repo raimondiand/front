@@ -61,14 +61,26 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3786"
-       id="radialGradient3792"
+       id="radialGradient3824"
        cx="76.971001"
        cy="1039.8622"
        fx="76.971001"
        fy="1039.8622"
-       r="76.971001"
-       gradientTransform="matrix(1,0,0,0.16239882,0,870.98979)"
+       r="83.031746"
+       gradientTransform="matrix(1,0,0,0.22353796,0,807.41351)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3834"
+       x="-0.06390878"
+       width="1.1278176"
+       y="-0.39352982"
+       height="1.7870596">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.099269"
+         id="feGaussianBlur3836" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -107,7 +119,7 @@
      style="display:inline"
      transform="translate(0,-1028.3622)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:url(#radialGradient3792);"
+       style="fill:#cccccc;fill-opacity:1;stroke:url(#radialGradient3824);filter:url(#filter3834)"
        id="rect3016"
        width="153.942"
        height="25"
@@ -119,8 +131,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-1028.3622)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-1028.3622)">
     <g
        id="g3015"
        transform="matrix(1.041645,0,0,1.041645,0,-43.825044)">
